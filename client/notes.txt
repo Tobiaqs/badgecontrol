@@ -1,0 +1,16 @@
+screen size: 296x128
+
+ugfx.string_box(0, 0, 296, 30, "Press LEFT for English, press UP for German, press RIGHT for Dutch", "Roboto_Regular12", ugfx.BLACK, ugfx.justifyCenter)
+
+ugfx.string_box(0, 116, 296, 12, "You can always exit the game by pressing SELECT!", "Roboto_Regular12", ugfx.BLACK, ugfx.justifyCenter)
+
+bar width: 30
+bar height: 10
+
+x: 296/2-15 = 133
+y: 128-10-6 = 112
+
+box outer width: 37
+box inner width: 31
+box outer height: 42
+box inner height: 36

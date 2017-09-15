@@ -1,0 +1,2 @@
+#!/bin/bash
+mpfshell $1 -n -c 'put __init__.py /lib/badgecontrol/__init__.py; put badgecontrol.py /lib/badgecontrol/badgecontrol.py'
